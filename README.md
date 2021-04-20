@@ -1,12 +1,12 @@
 <img style="margin-top: 0px;" align="top" width="250px" src="https://media.giphy.com/media/8BvvmHdZ9fR7xjuPWg/giphy.gif">
 
-# -- Seja bem-vindo(a) --
+# -- You're Welcome --
 
-### Ok, this is about me:
+### Okay, this is about me:
 
-- 📎 Trabalho na papelaria mais fofa do mundo --> <img width="20px" src="https://media.giphy.com/media/dvD4wjB8Ut8ItADSlv/giphy.gif"> https://www.papelrosepapelaria.com.br/
-- 📕 Estudando JavaScript, Html, Css, tentando me entender com o Java
-- 🤍 Buscando viver em paz com todos
+- 📎 I work at the most cute stationery in the world --> <img width="20px" src="https://media.giphy.com/media/dvD4wjB8Ut8ItADSlv/giphy.gif"> https://www.papelrosepapelaria.com.br/
+- 📕 I'm studying JavaScript, HTML, CSS, and trying to understand Java
+- 🤍 seeking to live in peace with everyone
 - 💤 Please, don't ask anything
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
