@@ -1,4 +1,4 @@
-<img style="margin-top: 0px;" align="top" width="400px" src="https://media.giphy.com/media/Urc9FmCt7PhDYXgWxT/giphy.gif">
+<img style="margin-top: 0px;" align="top" width="400px" src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif">
 
 # -- Seja bem-vindo(a) --
 
