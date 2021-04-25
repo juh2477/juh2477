@@ -1,6 +1,6 @@
 <img style="margin-top: 0px;" align="top" width="250px" src="https://media.giphy.com/media/8BvvmHdZ9fR7xjuPWg/giphy.gif">
 
-# -- You're Welcome --
+# -- You are Welcome --
 
 ### Okay, this is about me:
 
