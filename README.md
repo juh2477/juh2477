@@ -4,6 +4,7 @@
 
 ### Okay, this is about me:
 
+- 👩🏻‍🎓🎨 A Grafic Design student
 - 📕 I'm studying JavaScript, HTML, CSS, and trying to understand Java
 - 🤍 seeking to live in peace with everyone
 
