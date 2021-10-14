@@ -4,7 +4,6 @@
 
 ### Okay, this is about me:
 
-- 📎 I work at the most cute stationery in the world --> <img width="20px" src="https://media.giphy.com/media/dvD4wjB8Ut8ItADSlv/giphy.gif"> https://www.papelrosepapelaria.com.br/
 - 📕 I'm studying JavaScript, HTML, CSS, and trying to understand Java
 - 🤍 seeking to live in peace with everyone
 - 💤 Please, don't ask anything
